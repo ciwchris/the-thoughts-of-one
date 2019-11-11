@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
+      "text": "Feed",
+      "url": "/feed.xml",
       "external": false
     }
   ]
